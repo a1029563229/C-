@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Macxdouble/project/excerpt/cplus/algorithmic/locate.cpp
+locate.h
+/Users/Macxdouble/project/excerpt/cplus/algorithmic/locate.h
+
+/Users/Macxdouble/project/excerpt/cplus/algorithmic/locate.h
+
+/Users/Macxdouble/project/excerpt/cplus/example/ex1_1.cpp
+iostream
+-
+ex1_1.h
+/Users/Macxdouble/project/excerpt/cplus/example/ex1_1.h
+
+/Users/Macxdouble/project/excerpt/cplus/example/ex1_1.h
+
+/Users/Macxdouble/project/excerpt/cplus/main.cpp
+iostream
+-
+

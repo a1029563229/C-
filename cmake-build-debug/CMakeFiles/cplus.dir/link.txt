@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cplus.dir/main.cpp.o CMakeFiles/cplus.dir/algorithmic/locate.cpp.o CMakeFiles/cplus.dir/example/ex1_1.cpp.o CMakeFiles/cplus.dir/example/reference.cpp.o  -o cplus 
