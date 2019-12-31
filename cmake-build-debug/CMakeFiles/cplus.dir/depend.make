@@ -7,5 +7,14 @@ CMakeFiles/cplus.dir/algorithmic/locate.cpp.o: ../algorithmic/locate.h
 CMakeFiles/cplus.dir/example/ex1_1.cpp.o: ../example/ex1_1.cpp
 CMakeFiles/cplus.dir/example/ex1_1.cpp.o: ../example/ex1_1.h
 
+CMakeFiles/cplus.dir/excerpt/2/example.cpp.o: ../excerpt/2/example.cpp
+CMakeFiles/cplus.dir/excerpt/2/example.cpp.o: ../excerpt/2/example.h
+
+CMakeFiles/cplus.dir/excerpt/3/example.cpp.o: ../excerpt/3/example.cpp
+CMakeFiles/cplus.dir/excerpt/3/example.cpp.o: ../excerpt/3/example.h
+
+CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o: ../excerpt/3/reference.cpp
+CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o: ../excerpt/3/reference.h
+
 CMakeFiles/cplus.dir/main.cpp.o: ../main.cpp
 

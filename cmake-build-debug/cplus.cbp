@@ -92,10 +92,22 @@
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/example/ex1_1.h">
 			<Option target="cplus"/>
 		</Unit>
-		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/example/reference.cpp">
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/2/example.cpp">
 			<Option target="cplus"/>
 		</Unit>
-		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/example/reference.h">
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/2/example.h">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.h">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.h">
 			<Option target="cplus"/>
 		</Unit>
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/main.cpp">

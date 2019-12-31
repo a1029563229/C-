@@ -10,9 +10,9 @@
 //}
 
 // 引用
-int main() {
-    int a = 1;
-    int& r = a; // r 和 a 现在引用同一个 int 对象
-    int x = r; // x = 1
-    r = 2; // a = 2
-}
+//int main() {
+//    int a = 1;
+//    int& r = a; // r 和 a 现在引用同一个 int 对象
+//    int x = r; // x = 1
+//    r = 2; // a = 2
+//}

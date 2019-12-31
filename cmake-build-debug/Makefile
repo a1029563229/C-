@@ -177,32 +177,86 @@ example/ex1_1.cpp.s:
 	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/example/ex1_1.cpp.s
 .PHONY : example/ex1_1.cpp.s
 
-example/reference.o: example/reference.cpp.o
+excerpt/2/example.o: excerpt/2/example.cpp.o
 
-.PHONY : example/reference.o
+.PHONY : excerpt/2/example.o
 
 # target to build an object file
-example/reference.cpp.o:
-	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/example/reference.cpp.o
-.PHONY : example/reference.cpp.o
+excerpt/2/example.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/2/example.cpp.o
+.PHONY : excerpt/2/example.cpp.o
 
-example/reference.i: example/reference.cpp.i
+excerpt/2/example.i: excerpt/2/example.cpp.i
 
-.PHONY : example/reference.i
+.PHONY : excerpt/2/example.i
 
 # target to preprocess a source file
-example/reference.cpp.i:
-	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/example/reference.cpp.i
-.PHONY : example/reference.cpp.i
+excerpt/2/example.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/2/example.cpp.i
+.PHONY : excerpt/2/example.cpp.i
 
-example/reference.s: example/reference.cpp.s
+excerpt/2/example.s: excerpt/2/example.cpp.s
 
-.PHONY : example/reference.s
+.PHONY : excerpt/2/example.s
 
 # target to generate assembly for a file
-example/reference.cpp.s:
-	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/example/reference.cpp.s
-.PHONY : example/reference.cpp.s
+excerpt/2/example.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/2/example.cpp.s
+.PHONY : excerpt/2/example.cpp.s
+
+excerpt/3/example.o: excerpt/3/example.cpp.o
+
+.PHONY : excerpt/3/example.o
+
+# target to build an object file
+excerpt/3/example.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example.cpp.o
+.PHONY : excerpt/3/example.cpp.o
+
+excerpt/3/example.i: excerpt/3/example.cpp.i
+
+.PHONY : excerpt/3/example.i
+
+# target to preprocess a source file
+excerpt/3/example.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example.cpp.i
+.PHONY : excerpt/3/example.cpp.i
+
+excerpt/3/example.s: excerpt/3/example.cpp.s
+
+.PHONY : excerpt/3/example.s
+
+# target to generate assembly for a file
+excerpt/3/example.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example.cpp.s
+.PHONY : excerpt/3/example.cpp.s
+
+excerpt/3/reference.o: excerpt/3/reference.cpp.o
+
+.PHONY : excerpt/3/reference.o
+
+# target to build an object file
+excerpt/3/reference.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o
+.PHONY : excerpt/3/reference.cpp.o
+
+excerpt/3/reference.i: excerpt/3/reference.cpp.i
+
+.PHONY : excerpt/3/reference.i
+
+# target to preprocess a source file
+excerpt/3/reference.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/reference.cpp.i
+.PHONY : excerpt/3/reference.cpp.i
+
+excerpt/3/reference.s: excerpt/3/reference.cpp.s
+
+.PHONY : excerpt/3/reference.s
+
+# target to generate assembly for a file
+excerpt/3/reference.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/reference.cpp.s
+.PHONY : excerpt/3/reference.cpp.s
 
 main.o: main.cpp.o
 
@@ -246,9 +300,15 @@ help:
 	@echo "... example/ex1_1.o"
 	@echo "... example/ex1_1.i"
 	@echo "... example/ex1_1.s"
-	@echo "... example/reference.o"
-	@echo "... example/reference.i"
-	@echo "... example/reference.s"
+	@echo "... excerpt/2/example.o"
+	@echo "... excerpt/2/example.i"
+	@echo "... excerpt/2/example.s"
+	@echo "... excerpt/3/example.o"
+	@echo "... excerpt/3/example.i"
+	@echo "... excerpt/3/example.s"
+	@echo "... excerpt/3/reference.o"
+	@echo "... excerpt/3/reference.i"
+	@echo "... excerpt/3/reference.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -6,7 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Macxdouble/project/excerpt/cplus/algorithmic/locate.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/algorithmic/locate.cpp.o"
   "/Users/Macxdouble/project/excerpt/cplus/example/ex1_1.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/example/ex1_1.cpp.o"
-  "/Users/Macxdouble/project/excerpt/cplus/example/reference.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/example/reference.cpp.o"
+  "/Users/Macxdouble/project/excerpt/cplus/excerpt/2/example.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/excerpt/2/example.cpp.o"
+  "/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/excerpt/3/example.cpp.o"
+  "/Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o"
   "/Users/Macxdouble/project/excerpt/cplus/main.cpp" "/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles/cplus.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
