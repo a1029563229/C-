@@ -135,6 +135,58 @@ CMakeFiles/cplus.dir/excerpt/3/reference.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cplus.dir/excerpt/3/reference.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.cpp -o CMakeFiles/cplus.dir/excerpt/3/reference.cpp.s
 
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o: CMakeFiles/cplus.dir/flags.make
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o: ../excerpt/3/example2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o -c /Users/Macxdouble/project/excerpt/cplus/excerpt/3/example2.cpp
+
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cplus.dir/excerpt/3/example2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macxdouble/project/excerpt/cplus/excerpt/3/example2.cpp > CMakeFiles/cplus.dir/excerpt/3/example2.cpp.i
+
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cplus.dir/excerpt/3/example2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macxdouble/project/excerpt/cplus/excerpt/3/example2.cpp -o CMakeFiles/cplus.dir/excerpt/3/example2.cpp.s
+
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.o: CMakeFiles/cplus.dir/flags.make
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.o: ../excerpt/3/min.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cplus.dir/excerpt/3/min.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cplus.dir/excerpt/3/min.cpp.o -c /Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.cpp
+
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cplus.dir/excerpt/3/min.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.cpp > CMakeFiles/cplus.dir/excerpt/3/min.cpp.i
+
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cplus.dir/excerpt/3/min.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.cpp -o CMakeFiles/cplus.dir/excerpt/3/min.cpp.s
+
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o: CMakeFiles/cplus.dir/flags.make
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o: ../excerpt/4/Clock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o -c /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Clock.cpp
+
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Clock.cpp > CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.i
+
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Clock.cpp -o CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.s
+
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o: CMakeFiles/cplus.dir/flags.make
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o: ../excerpt/4/Point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o -c /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Point.cpp
+
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cplus.dir/excerpt/4/Point.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Point.cpp > CMakeFiles/cplus.dir/excerpt/4/Point.cpp.i
+
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cplus.dir/excerpt/4/Point.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macxdouble/project/excerpt/cplus/excerpt/4/Point.cpp -o CMakeFiles/cplus.dir/excerpt/4/Point.cpp.s
+
 # Object files for target cplus
 cplus_OBJECTS = \
 "CMakeFiles/cplus.dir/main.cpp.o" \
@@ -142,7 +194,11 @@ cplus_OBJECTS = \
 "CMakeFiles/cplus.dir/example/ex1_1.cpp.o" \
 "CMakeFiles/cplus.dir/excerpt/2/example.cpp.o" \
 "CMakeFiles/cplus.dir/excerpt/3/example.cpp.o" \
-"CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o"
+"CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o" \
+"CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o" \
+"CMakeFiles/cplus.dir/excerpt/3/min.cpp.o" \
+"CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o" \
+"CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o"
 
 # External object files for target cplus
 cplus_EXTERNAL_OBJECTS =
@@ -153,9 +209,13 @@ cplus: CMakeFiles/cplus.dir/example/ex1_1.cpp.o
 cplus: CMakeFiles/cplus.dir/excerpt/2/example.cpp.o
 cplus: CMakeFiles/cplus.dir/excerpt/3/example.cpp.o
 cplus: CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o
+cplus: CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o
+cplus: CMakeFiles/cplus.dir/excerpt/3/min.cpp.o
+cplus: CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o
+cplus: CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o
 cplus: CMakeFiles/cplus.dir/build.make
 cplus: CMakeFiles/cplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cplus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Macxdouble/project/excerpt/cplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable cplus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cplus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

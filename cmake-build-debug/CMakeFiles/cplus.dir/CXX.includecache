@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.cpp
-example.h
-/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.h
+/Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.cpp
+min.h
+/Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.h
 iostream
 /Users/Macxdouble/project/excerpt/cplus/excerpt/3/iostream
 
-/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.h
+/Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.h
 

@@ -104,10 +104,34 @@
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example.h">
 			<Option target="cplus"/>
 		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example2.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/example2.h">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/min.h">
+			<Option target="cplus"/>
+		</Unit>
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.cpp">
 			<Option target="cplus"/>
 		</Unit>
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/3/reference.h">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/4/Clock.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/4/Clock.h">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/4/Point.cpp">
+			<Option target="cplus"/>
+		</Unit>
+		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/excerpt/4/Point.h">
 			<Option target="cplus"/>
 		</Unit>
 		<Unit filename="/Users/Macxdouble/project/excerpt/cplus/main.cpp">

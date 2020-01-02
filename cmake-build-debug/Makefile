@@ -231,6 +231,60 @@ excerpt/3/example.cpp.s:
 	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example.cpp.s
 .PHONY : excerpt/3/example.cpp.s
 
+excerpt/3/example2.o: excerpt/3/example2.cpp.o
+
+.PHONY : excerpt/3/example2.o
+
+# target to build an object file
+excerpt/3/example2.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o
+.PHONY : excerpt/3/example2.cpp.o
+
+excerpt/3/example2.i: excerpt/3/example2.cpp.i
+
+.PHONY : excerpt/3/example2.i
+
+# target to preprocess a source file
+excerpt/3/example2.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example2.cpp.i
+.PHONY : excerpt/3/example2.cpp.i
+
+excerpt/3/example2.s: excerpt/3/example2.cpp.s
+
+.PHONY : excerpt/3/example2.s
+
+# target to generate assembly for a file
+excerpt/3/example2.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/example2.cpp.s
+.PHONY : excerpt/3/example2.cpp.s
+
+excerpt/3/min.o: excerpt/3/min.cpp.o
+
+.PHONY : excerpt/3/min.o
+
+# target to build an object file
+excerpt/3/min.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/min.cpp.o
+.PHONY : excerpt/3/min.cpp.o
+
+excerpt/3/min.i: excerpt/3/min.cpp.i
+
+.PHONY : excerpt/3/min.i
+
+# target to preprocess a source file
+excerpt/3/min.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/min.cpp.i
+.PHONY : excerpt/3/min.cpp.i
+
+excerpt/3/min.s: excerpt/3/min.cpp.s
+
+.PHONY : excerpt/3/min.s
+
+# target to generate assembly for a file
+excerpt/3/min.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/min.cpp.s
+.PHONY : excerpt/3/min.cpp.s
+
 excerpt/3/reference.o: excerpt/3/reference.cpp.o
 
 .PHONY : excerpt/3/reference.o
@@ -257,6 +311,60 @@ excerpt/3/reference.s: excerpt/3/reference.cpp.s
 excerpt/3/reference.cpp.s:
 	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/3/reference.cpp.s
 .PHONY : excerpt/3/reference.cpp.s
+
+excerpt/4/Clock.o: excerpt/4/Clock.cpp.o
+
+.PHONY : excerpt/4/Clock.o
+
+# target to build an object file
+excerpt/4/Clock.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o
+.PHONY : excerpt/4/Clock.cpp.o
+
+excerpt/4/Clock.i: excerpt/4/Clock.cpp.i
+
+.PHONY : excerpt/4/Clock.i
+
+# target to preprocess a source file
+excerpt/4/Clock.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.i
+.PHONY : excerpt/4/Clock.cpp.i
+
+excerpt/4/Clock.s: excerpt/4/Clock.cpp.s
+
+.PHONY : excerpt/4/Clock.s
+
+# target to generate assembly for a file
+excerpt/4/Clock.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.s
+.PHONY : excerpt/4/Clock.cpp.s
+
+excerpt/4/Point.o: excerpt/4/Point.cpp.o
+
+.PHONY : excerpt/4/Point.o
+
+# target to build an object file
+excerpt/4/Point.cpp.o:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o
+.PHONY : excerpt/4/Point.cpp.o
+
+excerpt/4/Point.i: excerpt/4/Point.cpp.i
+
+.PHONY : excerpt/4/Point.i
+
+# target to preprocess a source file
+excerpt/4/Point.cpp.i:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Point.cpp.i
+.PHONY : excerpt/4/Point.cpp.i
+
+excerpt/4/Point.s: excerpt/4/Point.cpp.s
+
+.PHONY : excerpt/4/Point.s
+
+# target to generate assembly for a file
+excerpt/4/Point.cpp.s:
+	$(MAKE) -f CMakeFiles/cplus.dir/build.make CMakeFiles/cplus.dir/excerpt/4/Point.cpp.s
+.PHONY : excerpt/4/Point.cpp.s
 
 main.o: main.cpp.o
 
@@ -306,9 +414,21 @@ help:
 	@echo "... excerpt/3/example.o"
 	@echo "... excerpt/3/example.i"
 	@echo "... excerpt/3/example.s"
+	@echo "... excerpt/3/example2.o"
+	@echo "... excerpt/3/example2.i"
+	@echo "... excerpt/3/example2.s"
+	@echo "... excerpt/3/min.o"
+	@echo "... excerpt/3/min.i"
+	@echo "... excerpt/3/min.s"
 	@echo "... excerpt/3/reference.o"
 	@echo "... excerpt/3/reference.i"
 	@echo "... excerpt/3/reference.s"
+	@echo "... excerpt/4/Clock.o"
+	@echo "... excerpt/4/Clock.i"
+	@echo "... excerpt/4/Clock.s"
+	@echo "... excerpt/4/Point.o"
+	@echo "... excerpt/4/Point.i"
+	@echo "... excerpt/4/Point.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

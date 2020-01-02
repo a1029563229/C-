@@ -13,8 +13,20 @@ CMakeFiles/cplus.dir/excerpt/2/example.cpp.o: ../excerpt/2/example.h
 CMakeFiles/cplus.dir/excerpt/3/example.cpp.o: ../excerpt/3/example.cpp
 CMakeFiles/cplus.dir/excerpt/3/example.cpp.o: ../excerpt/3/example.h
 
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o: ../excerpt/3/example2.cpp
+CMakeFiles/cplus.dir/excerpt/3/example2.cpp.o: ../excerpt/3/example2.h
+
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.o: ../excerpt/3/min.cpp
+CMakeFiles/cplus.dir/excerpt/3/min.cpp.o: ../excerpt/3/min.h
+
 CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o: ../excerpt/3/reference.cpp
 CMakeFiles/cplus.dir/excerpt/3/reference.cpp.o: ../excerpt/3/reference.h
+
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o: ../excerpt/4/Clock.cpp
+CMakeFiles/cplus.dir/excerpt/4/Clock.cpp.o: ../excerpt/4/Clock.h
+
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o: ../excerpt/4/Point.cpp
+CMakeFiles/cplus.dir/excerpt/4/Point.cpp.o: ../excerpt/4/Point.h
 
 CMakeFiles/cplus.dir/main.cpp.o: ../main.cpp
 
